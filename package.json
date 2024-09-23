@@ -1,0 +1,22 @@
+{
+  "name": "@dictadata/parquet",
+  "version": "1.2.1",
+  "description": "Javascript implementation of Apache Parquet file format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testrunner.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dictadata/parquet.git"
+  },
+  "keywords": [
+    "parquet"
+  ],
+  "author": "Drew O. Letcher",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dictadata/parquet/issues"
+  },
+  "homepage": "https://github.com/dictadata/parquet#readme"
+}
