@@ -1,5 +1,5 @@
 {
-  "name": "@dictadata/parquet",
+  "name": "parquet-js",
   "version": "1.2.1",
   "description": "Javascript implementation of Apache Parquet file format.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dictadata/parquet.git"
+    "url": "git+ssh://git@github.com/dictadata/parquet-js.git"
   },
   "keywords": [
     "parquet"
@@ -16,7 +16,7 @@
   "author": "Drew O. Letcher",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dictadata/parquet/issues"
+    "url": "https://github.com/dictadata/parquet-js/issues"
   },
-  "homepage": "https://github.com/dictadata/parquet#readme"
+  "homepage": "https://github.com/dictadata/parquet-js#readme"
 }

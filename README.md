@@ -1,6 +1,6 @@
-# parquet
+# parquet-js
 
-Javascript implementation of parquet file specification.
+Javascript implementation of Apache Parquet file specification.
 
 This package contains a fully asynchronous, pure JavaScript implementation of the Parquet file format. The implementation conforms with the Parquet specification and is tested for compatibility with Apache's Java reference implementation.
 
@@ -9,6 +9,6 @@ Installation
 
 To use parquet.js with node.js, install it using npm:
 
-  $ npm install @dictadata/parquet
+  $ npm install parquet-js
 
 parquet.js requires node.js >= 18.0
